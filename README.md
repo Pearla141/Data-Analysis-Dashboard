@@ -16,7 +16,8 @@ I developed an interactive Excel dashboard analyzing online retail performance a
 - *Data Analysis*: Trend analysis, geographic segmentation, and product performance metrics
 
 ## 📥 Download Dashboard
-The complete Excel dashboard is available here: [Download Dashboard] https://docs.google.com/spreadsheets/d/1aFVW_Nb7No_r_I-5AOO2AJbHcHwB3YBj/edit?usp=drive_link&ouid=105818641246398983199&rtpof=true&sd=true
+The complete Excel dashboard is available here: [Download Dashboard] https://drive.google.com/file/d/1aFVW_Nb7No_r_l-5AOO2AJbHcHwB3YBj/view?usp=sharing
+
 
 ## 📈 Dashboard Features
 - Real-time KPI metrics (Total Revenue, Total Orders, Total Customers, Avg Order Value)
