@@ -1,6 +1,6 @@
 # Online Retail Performance Dashboard (2009-2011)
 
-![Dashboard Preview]picture2.png)
+![Dashboard Preview](picture2.png)
 
 ## 📊 Project Summary
 I developed an interactive Excel dashboard analyzing online retail performance across a 3-year period (2009-2011), processing over 1 million orders from 5,876 customers across multiple countries. The dashboard provides comprehensive insights into revenue trends, order patterns, and customer behavior by combining SQL data extraction with advanced Excel visualization techniques. This end-to-end analytics solution enables stakeholders to monitor key performance indicators and identify top-performing countries and products. The dashboard features dynamic monthly trend analysis and comparative visualizations to support data-driven business decisions in the e-commerce retail sector.
